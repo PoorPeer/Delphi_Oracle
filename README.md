@@ -8,6 +8,6 @@ NEW REQUIREMENTS:<br>
 Moderator login -- name & password required. <br>
 Only moderator can put questions. <br>
 User login -- only name required. <br>
-Algorithm: Count all the users mouse movements except moderator and move the planchette by the mean.
+Algorithm: Add the users mouse movements (except moderator) and divide it by the number of users. Round off and move the planchette by the mean.
 The algorith must be able to handle at least 100 simultanteous users.
 The program should be impossible to tamper.
