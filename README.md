@@ -10,6 +10,6 @@ Moderator login -- name & password required. <br>
 Only moderator can put questions. <br>
 User login -- only name required. <br>
 Only users can move the planchette. <br>
-Algorithm: Add all the users mouse movements (except moderator) and divide it by the number of users. Round off and move the planchette by the mean.
+Algorithm: Add all the users mouse movements and divide it by the number of users. Round off and move the planchette by the mean.
 The algorith must be able to handle at least 100 simultanteous users.
 The program should be impossible to tamper.
